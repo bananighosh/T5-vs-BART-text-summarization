@@ -22,7 +22,7 @@ This Repo contains a notebook that is used to finetune the popular text summariz
 
 ## Trained models
 
-The trained model were large enough to store on github, so we have stored them on google drive which can be accessible on [Trained models](https://drive.google.com/drive/folders/1aIf-H1K9beieX5JNIslXHl-we2oE3KlW?usp=drive_link)
+The trained model were large enough to store on github, so we have stored them on google drive which can be accessible on [Trained models](https://drive.google.com/drive/folders/1AAR4XpzcYlQE8bYkzguA4x3-2QFNuK0c?usp=drive_link)
 
 ## Steps to run the notebook
 
