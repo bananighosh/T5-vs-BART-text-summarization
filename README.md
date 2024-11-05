@@ -18,7 +18,7 @@ This Repo contains a notebook that is used to finetune the popular text summariz
 
 
 ## Loss vs epochs
-![loss](https://github.com/bananighosh)
+![loss]([https://github.com/bananighosh](https://github.com/bananighosh/T5-vs-BART-text-summarization/blob/main/epoch_vs_loss_50k.png))
 
 ## Trained models
 
