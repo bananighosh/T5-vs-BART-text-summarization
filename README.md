@@ -7,7 +7,6 @@ This Repo contains a notebook that is used to finetune the popular text summariz
 **BART (Bidirectional and Auto-Regressive Transformers)** is a text generation model introduced by Facebook AI Research. It was presented in the paper titled "BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension" by Mike Lewis et al. in 2019. BART is built upon the Transformer architecture and is particularly effective in various text generation tasks, including text summarization. <br>
 
 ## Results  :
-### Midterm Progress
 
 | Experiment | Training dataset| Epochs | Rouge-1 | Rouge-2 | Rouge-l | Training Time |
 |----------|----------|----------|----------|----------|----------|----------|
@@ -20,10 +19,13 @@ This Repo contains a notebook that is used to finetune the popular text summariz
 ## Loss vs epochs
 ![loss](https://github.com/bananighosh/T5-vs-BART-text-summarization/blob/main/epoch_vs_loss_50k.png)
 
+## Evaluation Metric Values for Different Summarization Methods on CNN/Daily Mail dataset(after fine tuning BART Model)
+![rogue_scores](https://github.com/bananighosh/T5-vs-BART-text-summarization/blob/main/comparison_t5_vs_bart_rogue_scores.png)
+
 ## Trained models
 
 The trained model were large enough to store on github, so we have stored them on google drive which can be accessible on [Trained models](https://drive.google.com/drive/folders/1AAR4XpzcYlQE8bYkzguA4x3-2QFNuK0c?usp=drive_link)
 
 ## Steps to run the notebook
 
-Open colab and do run all, the notebook will run automatically producing all the results, no need of any furtherchanges.
+Open colab and do run all, the notebooks will run automatically producing all the results, no need of any furtherchanges.
